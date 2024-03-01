@@ -1,1 +1,1 @@
-# threejs-vite-starter
+# Three x Vite JS starter
